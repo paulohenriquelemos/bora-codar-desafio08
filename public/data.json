@@ -1,0 +1,49 @@
+{
+  "nps": {
+    "score": "75"
+  },
+  "vendas": {
+    "percentage": 70
+  },
+  "meta": {
+    "esperado": 70,
+    "alcancado": 63
+  },
+  "vendasSemana": [
+    {
+      "day": "domingo",
+      "vendaDia": 25,
+      "height": 2.5
+    },
+    {
+      "day": "segunda-feira",
+      "vendaDia": 70,
+      "height": 7
+    },
+    {
+      "day": "terça-feira",
+      "vendaDia": 50,
+      "height": 5
+    },
+    {
+      "day": "quarta-feira",
+      "vendaDia": 100,
+      "height": 10
+    },
+    {
+      "day": "quinta-feira",
+      "vendaDia": 80,
+      "height": 8
+    },
+    {
+      "day": "sexta-feira",
+      "vendaDia": 75,
+      "height": 7.5
+    },
+    {
+      "day": "sábado",
+      "vendaDia": 45,
+      "height": 4.5
+    }
+  ]
+}
