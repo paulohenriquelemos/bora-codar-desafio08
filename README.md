@@ -16,5 +16,5 @@ Este projeto consiste em desenvolver um dashboard responsivo conforme o modelo d
 <p align="justify">Neste projeto foi utilizado um arquivo "data.json" para simular uma API externa para capitação dos dados e a biblioteca Axios para fazer as requisições.</p>
 
 <p align="center">
-  <img src="./src/assets/BoraCodar-Desafio08.png">
+  <img src="./src/assets/layout.png">
 </p>
